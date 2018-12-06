@@ -11,3 +11,4 @@ layout: default
 1. [Creating ultimate chaos with fuse beads](./4_fuse_beads.html)
 1. [Being Ryu and Moses](./5_moses.html)
 1. [Ultimate testiness and Nanobots](./6_nanobots.html)
+1. [Sam and Coffee](./7_Sam_and_Coffee.html)
